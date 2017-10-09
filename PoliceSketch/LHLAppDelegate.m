@@ -6,13 +6,13 @@
 //  Copyright © 2017 Sam Meech-Ward. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "LHLAppDelegate.h"
 
-@interface AppDelegate ()
+@interface LHLAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation LHLAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {

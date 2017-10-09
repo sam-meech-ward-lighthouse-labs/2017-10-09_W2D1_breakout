@@ -6,13 +6,13 @@
 //  Copyright © 2017 Sam Meech-Ward. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "LHLViewController.h"
 
-@interface ViewController ()
+@interface LHLViewController ()
 
 @end
 
-@implementation ViewController
+@implementation LHLViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
