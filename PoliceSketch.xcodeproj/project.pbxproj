@@ -14,6 +14,7 @@
 		221F8A901F8C1C14009790AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 221F8A8E1F8C1C14009790AF /* LaunchScreen.storyboard */; };
 		221F8A931F8C1C14009790AF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 221F8A921F8C1C14009790AF /* main.m */; };
 		221F8A9D1F8C1C14009790AF /* PoliceSketchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 221F8A9C1F8C1C14009790AF /* PoliceSketchTests.m */; };
+		221F8AA91F8C2BBC009790AF /* LHLSketchData.m in Sources */ = {isa = PBXBuildFile; fileRef = 221F8AA81F8C2BBC009790AF /* LHLSketchData.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		221F8A981F8C1C14009790AF /* PoliceSketchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PoliceSketchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		221F8A9C1F8C1C14009790AF /* PoliceSketchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PoliceSketchTests.m; sourceTree = "<group>"; };
 		221F8A9E1F8C1C14009790AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		221F8AA71F8C2BBC009790AF /* LHLSketchData.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LHLSketchData.h; sourceTree = "<group>"; };
+		221F8AA81F8C2BBC009790AF /* LHLSketchData.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LHLSketchData.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				221F8A841F8C1C14009790AF /* LHLAppDelegate.m */,
 				221F8A861F8C1C14009790AF /* LHLViewController.h */,
 				221F8A871F8C1C14009790AF /* LHLViewController.m */,
+				221F8AA71F8C2BBC009790AF /* LHLSketchData.h */,
+				221F8AA81F8C2BBC009790AF /* LHLSketchData.m */,
 				221F8A891F8C1C14009790AF /* Main.storyboard */,
 				221F8A8C1F8C1C14009790AF /* Assets.xcassets */,
 				221F8A8E1F8C1C14009790AF /* LaunchScreen.storyboard */,
@@ -207,6 +212,7 @@
 			files = (
 				221F8A881F8C1C14009790AF /* LHLViewController.m in Sources */,
 				221F8A931F8C1C14009790AF /* main.m in Sources */,
+				221F8AA91F8C2BBC009790AF /* LHLSketchData.m in Sources */,
 				221F8A851F8C1C14009790AF /* LHLAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
